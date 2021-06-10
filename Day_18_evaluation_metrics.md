@@ -4,7 +4,7 @@
 ## 4th of June 2021
 <br>
 
-![state_of_mind](https://github.com/peterino99/images/state_of_things.jpg)
+![state_of_mind](https://github.com/peterino99/peterino99/blob/main/state_of_things.jpg)
 
 
 <br>
@@ -63,7 +63,7 @@
     * true and false positives (false alarms, type I errors); in the general case, y = 1
     * true and false negatives (missed events, type II errors); in the general case, y = 0
 
-    ![confusion_matrix](https://github.com/peterino99/images/confusion.jpg?raw=true)
+    ![confusion_matrix](https://github.com/peterino99/peterino99/blob/main/confusion.jpg?raw=true)
 
         * left axis: actually observed outcomes
         * top axis: predicted outcomes
@@ -127,7 +127,7 @@ This measure can be misleading when one class is rare
 * represents the fact that Precision and Recall exist in a trade off relationship
 * can help determine a threshold the stakeholder can agree to
 
-    ![ROC](https://github.com/peterino99/images/PRC.jpg?raw=true)
+    ![PRC](https://github.com/peterino99/peterino99/blob/main/PRC.jpg?raw=true)
 
 <br>
 
@@ -154,7 +154,7 @@ This measure can be misleading when one class is rare
 
     * a model with better than random performance will be above the 45 degree line 
 
-    ![ROC](https://github.com/peterino99/images/ROC.jpg?raw=true)
+    ![ROC](https://github.com/peterino99/peterino99/blob/main/ROC.jpg?raw=true)
 
 ### G. Area under the ROC (AUC)
 
@@ -165,7 +165,7 @@ This measure can be misleading when one class is rare
 * a perfect model would produce an AOC of 1
 * by the goldilocks principle, most models will be between 5. and 1
 
-    ![AUC](https://github.com/peterino99/images/AOC.jpg?raw=true)
+    ![AUC](https://github.com/peterino99/peterino99/blob/main/AOC.jpg?raw=true)
 
 
 
@@ -204,7 +204,7 @@ There are many more: see: https://scikit-learn.org/stable/modules/model_evaluati
 
 * use sklearn approach to train data using train/ test split
 
-![train/test](https://github.com/peterino99/images/train.jpg?raw=true)
+![train/test](https://github.com/peterino99/peterino99/blob/main/train.jpg?raw=true)
 
 
 
